@@ -9,3 +9,6 @@
 # Screenshots
 ![20241213_22h06m15s_grim](https://github.com/user-attachments/assets/90c36623-79dc-4a93-9180-b0f31272bb83)
 ![image](https://github.com/user-attachments/assets/6513fd7a-eb47-43e1-9525-6c7f56ea152b)
+
+# Thanks
+- chaibronz for the [waybar configs](https://github.com/chaibronz/waybar_conf)
